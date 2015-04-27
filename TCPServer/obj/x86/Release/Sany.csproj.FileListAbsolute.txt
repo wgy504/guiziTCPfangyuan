@@ -1,0 +1,16 @@
+e:\VisualSutdio2010\Projects\Sany\Sany\bin\Release\Sany.exe
+e:\VisualSutdio2010\Projects\Sany\Sany\bin\Release\Sany.pdb
+e:\VisualSutdio2010\Projects\Sany\Sany\obj\x86\Release\ResolveAssemblyReference.cache
+e:\VisualSutdio2010\Projects\Sany\Sany\obj\x86\Release\Sany.Form1.resources
+e:\VisualSutdio2010\Projects\Sany\Sany\obj\x86\Release\Sany.Properties.Resources.resources
+e:\VisualSutdio2010\Projects\Sany\Sany\obj\x86\Release\ResGen.read.1.tlog
+e:\VisualSutdio2010\Projects\Sany\Sany\obj\x86\Release\ResGen.write.1.tlog
+e:\VisualSutdio2010\Projects\Sany\Sany\obj\x86\Release\Sany.exe
+e:\VisualSutdio2010\Projects\Sany\Sany\obj\x86\Release\Sany.pdb
+E:\VisualSutdio2010\Projects\Sany - 茅台副本\Sany\bin\Release\Sany.exe
+E:\VisualSutdio2010\Projects\Sany - 茅台副本\Sany\bin\Release\Sany.pdb
+E:\VisualSutdio2010\Projects\Sany - 茅台副本\Sany\obj\x86\Release\ResolveAssemblyReference.cache
+E:\VisualSutdio2010\Projects\Sany - 茅台副本\Sany\obj\x86\Release\Sany.Form1.resources
+E:\VisualSutdio2010\Projects\Sany - 茅台副本\Sany\obj\x86\Release\Sany.Properties.Resources.resources
+E:\VisualSutdio2010\Projects\Sany - 茅台副本\Sany\obj\x86\Release\Sany.exe
+E:\VisualSutdio2010\Projects\Sany - 茅台副本\Sany\obj\x86\Release\Sany.pdb

@@ -1,0 +1,12 @@
+[Net]
+Port = 4000
+
+[MySql]
+db_name = hdm0050213_db
+db_url = hdm-005.hichina.com
+db_user = hdm0050213
+db_pwd = asdf1234
+
+[SMS]
+serial =6SDK-EMY-6688-KDXTQ
+password =679816

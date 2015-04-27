@@ -1,0 +1,55 @@
+\\192.168.31.1\XiaoMi\文档\百邦家事\软件\guiziTCPwuhan\TcpServer\bin\Debug\guiziTCPwuhan.exe.config
+\\192.168.31.1\XiaoMi\文档\百邦家事\软件\guiziTCPwuhan\TcpServer\obj\x86\Debug\guiziTCPwuhan.exe
+\\192.168.31.1\XiaoMi\文档\百邦家事\软件\guiziTCPwuhan\TcpServer\obj\x86\Debug\guiziTCPwuhan.pdb
+\\192.168.31.1\XiaoMi\文档\百邦家事\软件\guiziTCPwuhan\TcpServer\bin\Debug\guiziTCPwuhan.exe
+\\192.168.31.1\XiaoMi\文档\百邦家事\软件\guiziTCPwuhan\TcpServer\bin\Debug\guiziTCPwuhan.pdb
+\\192.168.31.1\XiaoMi\文档\百邦家事\软件\guiziTCPwuhan\TcpServer\bin\Debug\MySql.Data.dll
+\\192.168.31.1\XiaoMi\文档\百邦家事\软件\guiziTCPwuhan\TcpServer\obj\x86\Debug\guiziTCPwuhan.csprojResolveAssemblyReference.cache
+\\192.168.31.1\XiaoMi\文档\百邦家事\软件\guiziTCPwuhan\TcpServer\obj\x86\Debug\guiziTCPwuhan.Form1.resources
+\\192.168.31.1\XiaoMi\文档\百邦家事\软件\guiziTCPwuhan\TcpServer\obj\x86\Debug\guiziTCPwuhan.Form2.resources
+\\192.168.31.1\XiaoMi\文档\百邦家事\软件\guiziTCPwuhan\TcpServer\obj\x86\Debug\guiziTCPwuhan.Form3.resources
+\\192.168.31.1\XiaoMi\文档\百邦家事\软件\guiziTCPwuhan\TcpServer\obj\x86\Debug\guiziTCPwuhan.Properties.Resources.resources
+\\192.168.31.1\XiaoMi\文档\百邦家事\软件\guiziTCPwuhan\TcpServer\obj\x86\Debug\guiziTCPwuhan.csproj.GenerateResource.Cache
+Z:\Documents\My Document\Prog\visual studio 2010\Projects\guiziTCPwuhan\TcpServer\bin\Debug\guiziTCPwuhan.exe.config
+Z:\Documents\My Document\Prog\visual studio 2010\Projects\guiziTCPwuhan\TcpServer\bin\Debug\guiziTCPwuhan.exe
+Z:\Documents\My Document\Prog\visual studio 2010\Projects\guiziTCPwuhan\TcpServer\bin\Debug\guiziTCPwuhan.pdb
+Z:\Documents\My Document\Prog\visual studio 2010\Projects\guiziTCPwuhan\TcpServer\bin\Debug\MySql.Data.dll
+Z:\Documents\My Document\Prog\visual studio 2010\Projects\guiziTCPwuhan\TcpServer\obj\x86\Debug\guiziTCPwuhan.Form1.resources
+Z:\Documents\My Document\Prog\visual studio 2010\Projects\guiziTCPwuhan\TcpServer\obj\x86\Debug\guiziTCPwuhan.Form2.resources
+Z:\Documents\My Document\Prog\visual studio 2010\Projects\guiziTCPwuhan\TcpServer\obj\x86\Debug\guiziTCPwuhan.Form3.resources
+Z:\Documents\My Document\Prog\visual studio 2010\Projects\guiziTCPwuhan\TcpServer\obj\x86\Debug\guiziTCPwuhan.Properties.Resources.resources
+Z:\Documents\My Document\Prog\visual studio 2010\Projects\guiziTCPwuhan\TcpServer\obj\x86\Debug\guiziTCPwuhan.csproj.GenerateResource.Cache
+Z:\Documents\My Document\Prog\visual studio 2010\Projects\guiziTCPwuhan\TcpServer\obj\x86\Debug\guiziTCPwuhan.exe
+Z:\Documents\My Document\Prog\visual studio 2010\Projects\guiziTCPwuhan\TcpServer\obj\x86\Debug\guiziTCPwuhan.pdb
+Z:\Documents\My Document\Prog\visual studio 2010\Projects\guiziTCPwuhan\TcpServer\obj\x86\Debug\guiziTCPwuhan.csprojResolveAssemblyReference.cache
+Z:\Documents\My Document\Prog\visual studio 2010\Projects\guiziTCPwuhanNew\TcpServer\bin\Debug\guiziTCPwuhan.exe.config
+Z:\Documents\My Document\Prog\visual studio 2010\Projects\guiziTCPwuhanNew\TcpServer\obj\x86\Debug\guiziTCPwuhan.exe
+Z:\Documents\My Document\Prog\visual studio 2010\Projects\guiziTCPwuhanNew\TcpServer\obj\x86\Debug\guiziTCPwuhan.pdb
+Z:\Documents\My Document\Prog\visual studio 2010\Projects\guiziTCPwuhanNew\TcpServer\bin\Debug\guiziTCPwuhan.exe
+Z:\Documents\My Document\Prog\visual studio 2010\Projects\guiziTCPwuhanNew\TcpServer\bin\Debug\guiziTCPwuhan.pdb
+Z:\Documents\My Document\Prog\visual studio 2010\Projects\guiziTCPwuhanNew\TcpServer\bin\Debug\MySql.Data.dll
+Z:\Documents\My Document\Prog\visual studio 2010\Projects\guiziTCPwuhanNew\TcpServer\obj\x86\Debug\guiziTCPwuhan.csprojResolveAssemblyReference.cache
+Z:\Documents\My Document\Prog\visual studio 2010\Projects\guiziTCPwuhanNew\TcpServer\obj\x86\Debug\guiziTCPwuhan.Form1.resources
+Z:\Documents\My Document\Prog\visual studio 2010\Projects\guiziTCPwuhanNew\TcpServer\obj\x86\Debug\guiziTCPwuhan.Form2.resources
+Z:\Documents\My Document\Prog\visual studio 2010\Projects\guiziTCPwuhanNew\TcpServer\obj\x86\Debug\guiziTCPwuhan.Form3.resources
+Z:\Documents\My Document\Prog\visual studio 2010\Projects\guiziTCPwuhanNew\TcpServer\obj\x86\Debug\guiziTCPwuhan.Properties.Resources.resources
+Z:\Documents\My Document\Prog\visual studio 2010\Projects\guiziTCPwuhanNew\TcpServer\obj\x86\Debug\guiziTCPwuhan.csproj.GenerateResource.Cache
+C:\Users\zenkitemp\Documents\Visual Studio 2010\Projects\guiziTCPwuhanNew\TcpServer\bin\Debug\guiziTCPwuhan.exe.config
+C:\Users\zenkitemp\Documents\Visual Studio 2010\Projects\guiziTCPwuhanNew\TcpServer\obj\x86\Debug\guiziTCPwuhan.exe
+C:\Users\zenkitemp\Documents\Visual Studio 2010\Projects\guiziTCPwuhanNew\TcpServer\obj\x86\Debug\guiziTCPwuhan.pdb
+C:\Users\zenkitemp\Documents\Visual Studio 2010\Projects\guiziTCPwuhanNew\TcpServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\zenkitemp\Documents\Visual Studio 2010\Projects\guiziTCPwuhanNew\TcpServer\obj\x86\Debug\guiziTCPwuhan.Form1.resources
+C:\Users\zenkitemp\Documents\Visual Studio 2010\Projects\guiziTCPwuhanNew\TcpServer\obj\x86\Debug\guiziTCPwuhan.Form2.resources
+C:\Users\zenkitemp\Documents\Visual Studio 2010\Projects\guiziTCPwuhanNew\TcpServer\obj\x86\Debug\guiziTCPwuhan.Form3.resources
+C:\Users\zenkitemp\Documents\Visual Studio 2010\Projects\guiziTCPwuhanNew\TcpServer\obj\x86\Debug\guiziTCPwuhan.Properties.Resources.resources
+C:\Users\zenkitemp\Documents\Visual Studio 2010\Projects\guiziTCPwuhanNew\TcpServer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\zenkitemp\Documents\Visual Studio 2010\Projects\guiziTCPwuhanNew\TcpServer\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\zenkitemp\Documents\Visual Studio 2010\Projects\guiziTCPwuhanNew\TcpServer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\zenkitemp\Documents\Visual Studio 2010\Projects\guiziTCPwuhanNew\TcpServer\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\zenkitemp\Documents\Visual Studio 2010\Projects\guiziTCPwuhanNew\TcpServer\bin\Debug\guiziTCPwuhan.exe
+C:\Users\zenkitemp\Documents\Visual Studio 2010\Projects\guiziTCPwuhanNew\TcpServer\bin\Debug\guiziTCPwuhan.pdb
+C:\Users\zenkitemp\Documents\Visual Studio 2010\Projects\guiziTCPwuhanNew\TcpServer\bin\Debug\MySql.Data.dll
+Z:\Documents\My Document\Prog\visual studio 2010\Projects\guiziTCPfangyuan\TcpServer\bin\Debug\guiziTCPwuhan.exe.config
+Z:\Documents\My Document\Prog\visual studio 2010\Projects\guiziTCPfangyuan\TcpServer\obj\x86\Debug\guiziTCPwuhan.exe
+Z:\Documents\My Document\Prog\visual studio 2010\Projects\guiziTCPfangyuan\TcpServer\obj\x86\Debug\guiziTCPwuhan.pdb
+Z:\Documents\My Document\Prog\visual studio 2010\Projects\guiziTCPfangyuan\TcpServer\bin\Debug\guiziTCPfangyuan.exe.config
